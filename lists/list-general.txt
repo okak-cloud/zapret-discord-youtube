@@ -44,3 +44,13 @@ ffzap.com
 betterttv.net
 7tv.app
 7tv.io
+roblox.com
+css.rbxcdn.com
+js.rbxcdn.com
+esv2.roblox.com
+metris.roblox.com
+apis.roblox.com
+realtime-signalr.roblox.com
+games.roblox.com
+tr.rbxcdn.com
+thumbnails.roblox.com
